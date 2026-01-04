@@ -38,8 +38,6 @@
   <img src="https://leetcard.jacoblin.cool/nandini_naidu7?theme=dark&font=Karma&ext=heatmap" />
 </p>
 <h1>Contact Me: </h1>
-<h2>📡 Contact Me at DevBase</h2>
-
 <table>
   <tr>
     <td align="center" width="120">
