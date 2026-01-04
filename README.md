@@ -38,11 +38,9 @@
   <img src="https://leetcard.jacoblin.cool/nandini_naidu7?theme=dark&font=Karma&ext=heatmap" />
 </p>
 <h1>Contact Me: </h1>
-[LinkedIn](https://www.linkedin.com/in/nandini-naidu-2536b1287/)  
-📧 **Gmail**: nandini2005729@gmail.com  
-💻 **LeetCode**: https://leetcode.com/u/nandini_naidu7/
-
-
+- **LinkedIn**: https://www.linkedin.com/in/nandini-naidu-2536b1287/
+- **Gmail**: nandini2005729@gmail.com
+- **LeetCode**: https://leetcode.com/u/nandini_naidu7/
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nannndini&style=flat-square&color=blue" />
 </p>
