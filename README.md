@@ -38,9 +38,24 @@
   <img src="https://leetcard.jacoblin.cool/nandini_naidu7?theme=dark&font=Karma&ext=heatmap" />
 </p>
 <h1>Contact Me: </h1>
-- **LinkedIn**: https://www.linkedin.com/in/nandini-naidu-2536b1287/
-- **Gmail**: nandini2005729@gmail.com
-- **LeetCode**: https://leetcode.com/u/nandini_naidu7/
+<h2>📡 Contact Me at DevBase</h2>
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/><br>
+      <a href="https://www.linkedin.com/in/nandini-naidu-2536b1287/">LinkedIn</a>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40"/><br>
+      <a href="mailto:nandini2005729@gmail.com">Gmail</a>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/825/825597.png" width="40"/><br>
+      <a href="https://leetcode.com/u/nandini_naidu7/">LeetCode</a>
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nannndini&style=flat-square&color=blue" />
 </p>
