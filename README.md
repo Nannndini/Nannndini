@@ -35,7 +35,7 @@
 </p>
 <h1> LeetCode </h1>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/<Nandini_Naidu7>?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/<nandini_naidu7>?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 
