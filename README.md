@@ -33,6 +33,10 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
+<h1> LeetCode </h1>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/<Nandini_Naidu7>?theme=dark&font=Karma&ext=heatmap" />
+</p>
 
 
 
